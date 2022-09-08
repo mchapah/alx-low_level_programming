@@ -1,0 +1,14 @@
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ *Description: prints a string using printf
+ *
+ * Return: 0 after printing the funtion (success)
+  */
+int main(void)
+{
+	printf("with proper grammar, but the outcome is a piece of art,");
+	return (0);
+
+}

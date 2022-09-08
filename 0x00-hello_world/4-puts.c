@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main  -  prints -Programming is like building a multilingual puzzle
+ * main - Entry point
  *
- * Return : Always 0 after printing the function
+ * Description: prints -Programming is like building a multilingual puzzle
+ *
+ * Return: Always 0 after printing the function (success)
  *
  */
 int main(void)
